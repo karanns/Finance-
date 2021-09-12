@@ -1,4 +1,4 @@
-# Finance-
+# Finance
 Finance Concepts in Python
 
 
