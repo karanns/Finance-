@@ -13,6 +13,6 @@ Disadvantage of the VaR Concept
 
 Let's assume we have an outlier and the outlier falls outside the confidence interval chosen. In this case the VAR cannot factor-in this loss and it always shows the losses which occur within the confidence interval chosen/ the probability of the loss that is relevant. 
 
-2.Basic TvM and Quantitative Methods
+2. Basic TvM and Quantitative Methods
 
 Covering Time Value of Money concepts like PV, FV and Net Present Value.
