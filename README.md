@@ -29,7 +29,7 @@ This states that there is a 5% chance that the VAR will be greater than $120 for
 
 Using Monte Carlo Simulation (Brownian Motion)
 
-Monte Carlo Simulation is a method to predict the probability of different outcomes when there is an intervention of random variables.One of the most famous stochastic process is a geometric brownian motion. Brownian motion is a random motion of particles suspended in a medium. Inside a box there are many many particles that are in motion and collide with each other. The path that one of the particles chooses randomly is known as a brownian motion.In order to quantify this stochastic geometric brownian motion was introduced.
+Monte Carlo Simulation is a method to predict the probability of different outcomes when there is an intervention of random variables.One of the most famous stochastic processes is a geometric brownian motion. Brownian motion is a random motion of particles suspended in a medium. Inside a box there are many particles that are in motion and collide with each other. The path that one of the particles chooses randomly is known as a brownian motion. In order to quantify this geometric brownian motion was introduced for a stochastic process.
 
 For an arbitrary initial value S0 the above SDE has the analytic solution (under Itô's interpretation):
 
