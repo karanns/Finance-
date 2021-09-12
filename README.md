@@ -7,6 +7,10 @@ Finance Concepts in Python
 Value at risk is a key risk management metric used since the last two decades. 
 It is the probability of loss in value of a riky portfolio/asset given a specified time period t and a confidence interval.
 
+Parametric Method :
+
+Variance Covariance Method
+
 VaR formula for a standard normal distribution  = Mean - Zscore*stddev
 
 Mean = 1%
