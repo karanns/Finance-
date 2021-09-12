@@ -10,4 +10,5 @@ Let's assume that our distribution has a 95% confidence interval. Since VAR is a
 This states that there is a 5% chance that the VAR will be greater than $120 for a given period. 
 
 2.Basic TvM and Quantitative Methods
+
 Covering Time Value of Money concepts like PV, FV and Net Present Value.
