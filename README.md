@@ -11,7 +11,7 @@ This states that there is a 5% chance that the VAR will be greater than $120 for
 
 Disadvantage of the VaR Concept
 
-Let's assume we have an outlier and the outlier falls outside the confidence interval chosen. In this case the VAR cannot factor-in this loss and it always shows the losses which occus in the confidence interval chosen/ the probability of the loss that is relevant. 
+Let's assume we have an outlier and the outlier falls outside the confidence interval chosen. In this case the VAR cannot factor-in this loss and it always shows the losses which occur within the confidence interval chosen/ the probability of the loss that is relevant. 
 
 2.Basic TvM and Quantitative Methods
 
