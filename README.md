@@ -9,8 +9,6 @@ It is the probability of loss in value of a riky portfolio/asset given a specifi
 
 Parametric Method :
 
-Variance Covariance Method
-
 VaR formula for a standard normal distribution  = Mean - Zscore*stddev
 
 Mean = 1%
