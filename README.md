@@ -10,9 +10,13 @@ It is the probability of loss in value of a riky portfolio/asset given a specifi
 VaR formula for a standard normal distribution  = Mean - Zscore*stddev
 
 Mean = 1%
+
 ZScore = 1.65
+
 StdDev = 1%
+
 Var = 1% - 1.65*1%
+
 VaR = - 0.65%
 
 How does it work ? - Let's assume we have a probability distribution which is normally distributed.(i.e. mean = 0, std = 1)
